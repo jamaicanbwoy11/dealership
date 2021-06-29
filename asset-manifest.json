@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/dealership/static/css/main.59418142.chunk.css",
-    "main.js": "/dealership/static/js/main.e46cc5cc.chunk.js",
-    "main.js.map": "/dealership/static/js/main.e46cc5cc.chunk.js.map",
+    "main.js": "/dealership/static/js/main.4c205665.chunk.js",
+    "main.js.map": "/dealership/static/js/main.4c205665.chunk.js.map",
     "runtime-main.js": "/dealership/static/js/runtime-main.adc96011.js",
     "runtime-main.js.map": "/dealership/static/js/runtime-main.adc96011.js.map",
     "static/js/2.5e1bb0eb.chunk.js": "/dealership/static/js/2.5e1bb0eb.chunk.js",
     "static/js/2.5e1bb0eb.chunk.js.map": "/dealership/static/js/2.5e1bb0eb.chunk.js.map",
     "index.html": "/dealership/index.html",
-    "precache-manifest.86c30633c673abcb15bb48db6a2a3840.js": "/dealership/precache-manifest.86c30633c673abcb15bb48db6a2a3840.js",
+    "precache-manifest.e2344fb9db1cf71cf47ee269a5275059.js": "/dealership/precache-manifest.e2344fb9db1cf71cf47ee269a5275059.js",
     "service-worker.js": "/dealership/service-worker.js",
     "static/css/main.59418142.chunk.css.map": "/dealership/static/css/main.59418142.chunk.css.map",
     "static/media/Styles.css": "/dealership/static/media/car-2.7aac585b.jpg",
@@ -71,6 +71,6 @@
     "static/js/runtime-main.adc96011.js",
     "static/js/2.5e1bb0eb.chunk.js",
     "static/css/main.59418142.chunk.css",
-    "static/js/main.e46cc5cc.chunk.js"
+    "static/js/main.4c205665.chunk.js"
   ]
 }

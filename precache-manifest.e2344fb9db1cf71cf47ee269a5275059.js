@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c0583fe8395064dfb81ac7362e4ac8f6",
+    "revision": "d73c11983dabab5c9edfe5f56df7509f",
     "url": "/dealership/index.html"
   },
   {
-    "revision": "6827d118c03cec0b39d4",
+    "revision": "a01fe3dc3d195d2f2e06",
     "url": "/dealership/static/css/main.59418142.chunk.css"
   },
   {
@@ -12,8 +12,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/dealership/static/js/2.5e1bb0eb.chunk.js"
   },
   {
-    "revision": "6827d118c03cec0b39d4",
-    "url": "/dealership/static/js/main.e46cc5cc.chunk.js"
+    "revision": "a01fe3dc3d195d2f2e06",
+    "url": "/dealership/static/js/main.4c205665.chunk.js"
   },
   {
     "revision": "9166103d43f45edbe402",
